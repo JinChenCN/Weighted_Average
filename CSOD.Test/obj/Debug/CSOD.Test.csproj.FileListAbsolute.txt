@@ -9,3 +9,6 @@ C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.Unit
 C:\VSWorkSpace\CSOD\CSOD.Test\obj\Debug\CSOD.Test.csprojResolveAssemblyReference.cache
 C:\VSWorkSpace\CSOD\CSOD.Test\obj\Debug\CSOD.Test.dll
 C:\VSWorkSpace\CSOD\CSOD.Test\obj\Debug\CSOD.Test.pdb
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\TestData\Test3.txt
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\TestData\Test4.txt
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\TestData\Test5.txt
