@@ -7,7 +7,12 @@ namespace CSOD
     {
         public decimal GetCalculatedAverage(List<WeightedScore> scores)
         {
-            throw new NotImplementedException();
+            if (scores == null)
+            {
+                throw new Exception("Input is null!");
+            }
+
+            return scores.WeightedAverage(s => s.Score, s => s.Weight);
         }
     }
 }
