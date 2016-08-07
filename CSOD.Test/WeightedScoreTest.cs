@@ -32,7 +32,7 @@ namespace CSOD.Test
 
         [TestMethod]
         [ExpectedException(typeof(DivideByZeroException))]
-        public void GetCalculatedAverageInvalidInput()
+        public void GetCalculatedAverageZeroWeight()
         {
             var scores = new List<WeightedScore>
             {
@@ -40,6 +40,21 @@ namespace CSOD.Test
                 new WeightedScore(5.0m, 0),
                 new WeightedScore(7.7m, 0),
                 new WeightedScore(6.5m, 0),
+            };
+
+            calculator.GetCalculatedAverage(scores);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void GetCalculatedAverageInvalidWeights()
+        {
+            var scores = new List<WeightedScore>
+            {
+                new WeightedScore(7.3m, 0.5m),
+                new WeightedScore(5.0m, 0.2m),
+                new WeightedScore(7.7m, 0.6m),
+                new WeightedScore(6.5m, 0.1m),
             };
 
             calculator.GetCalculatedAverage(scores);
