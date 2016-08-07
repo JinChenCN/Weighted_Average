@@ -1,0 +1,11 @@
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\TestData\Test1.txt
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\TestData\Test2.txt
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\CSOD.Test.dll
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\CSOD.Test.pdb
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\CSOD.exe
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\CSOD.pdb
+C:\VSWorkSpace\CSOD\CSOD.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\VSWorkSpace\CSOD\CSOD.Test\obj\Debug\CSOD.Test.csprojResolveAssemblyReference.cache
+C:\VSWorkSpace\CSOD\CSOD.Test\obj\Debug\CSOD.Test.dll
+C:\VSWorkSpace\CSOD\CSOD.Test\obj\Debug\CSOD.Test.pdb

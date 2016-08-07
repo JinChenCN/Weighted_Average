@@ -1,0 +1,6 @@
+C:\VSWorkSpace\CSOD\CSOD\bin\Debug\CSOD.exe.config
+C:\VSWorkSpace\CSOD\CSOD\bin\Debug\CSOD.exe
+C:\VSWorkSpace\CSOD\CSOD\bin\Debug\CSOD.pdb
+C:\VSWorkSpace\CSOD\CSOD\obj\Debug\CSOD.csprojResolveAssemblyReference.cache
+C:\VSWorkSpace\CSOD\CSOD\obj\Debug\CSOD.exe
+C:\VSWorkSpace\CSOD\CSOD\obj\Debug\CSOD.pdb

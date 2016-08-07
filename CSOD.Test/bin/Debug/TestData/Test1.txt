@@ -1,0 +1,18 @@
+public class Person<T>
+{
+    private T _id;
+ 
+    public Person()
+    {
+    }
+ 
+    public Person(T id)
+    {
+        _id = id;
+    }
+ 
+    public void SetId(T newId)
+    {
+        _id = newId;
+    }
+}
